@@ -12,17 +12,7 @@ class HomePage extends React.Component {
         <div className="row">
           <div className="col-xs-12 col-sm-12 col-md-12 main-content">
             <h1>Muldune</h1>
-            <p>Financial Analysis and Application Development</p>
-            {/*<Header />*/}
-            <div>
-              <Link to="http://themorningmonte.com" className="btn btn-primary" target="_self">The Morning Monte</Link> 
-            </div>
-            <div>
-              <Link to="https://prudena.com" className="btn btn-warning" target="_self">Prudena</Link>
-            </div>
-            <div>
-              <Link to="https://twitter.com/sevenshadow" className="btn btn-success" target="_self">Twitter</Link>
-            </div>
+            <p>Experiments in Education</p>
             <div className="add-margin-top-20">
               <Link to="mailto:info@sevenshadow.com" target="_self">info@sevenshadow.com</Link>
             </div>
